@@ -1,0 +1,5 @@
+name: Relics
+version: 1.0.2
+author: Artax
+api: 3.0.0
+main: Artax\Relics\Relics
